@@ -1,0 +1,1 @@
+export const SWAGGER_JSON_PATHS = ['/swagger/swagger1.json', '/swagger/swagger2.json', '/swagger/swagger3.json'];
