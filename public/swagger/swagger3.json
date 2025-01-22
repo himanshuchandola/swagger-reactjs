@@ -7,7 +7,7 @@
   "paths": {
     "/third/example3": {
       "delete": {
-        "summary": "This is 3rd swagger json file",
+        "summary": "This is 3rd swagger json file - Aryan Dubey",
         "responses": {
           "200": {
             "description": "Success"

@@ -7,7 +7,7 @@
   "paths": {
     "/first/example1": {
       "get": {
-        "summary": "This is 1st swagger json file",
+        "summary": "This is 1st swagger json file - Himanshu CHandola",
         "responses": {
           "200": {
             "description": "Success"
