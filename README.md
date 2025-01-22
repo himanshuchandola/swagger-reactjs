@@ -42,7 +42,7 @@ swagger-test/
 
 ## Demo
 
-Below is an example of how the merged Swagger UI will look:
+Below is an example of how the merged Swagger UI will look: https://swagger-reactjs.vercel.app
 
 ![Swagger UI Demo](swagger.png)
 
