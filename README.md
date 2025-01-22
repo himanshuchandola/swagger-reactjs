@@ -40,6 +40,13 @@ swagger-test/
 3. Start the application with `npm start` or `pnpm start`.
 4. Open your browser and navigate to `http://localhost:3000` to view the merged Swagger UI.
 
+## Demo
+
+Below is an example of how the merged Swagger UI will look:
+
+![Swagger UI Demo](swagger.png)
+
+
 ## Future Enhancements
 - Add support for fetching Swagger JSON files from remote servers.
 - Improve error handling and loading states.
